@@ -1,2 +1,2 @@
 # JSoupHTMLVorlage
-ja man
+index.html zum "holen" für jsoup
