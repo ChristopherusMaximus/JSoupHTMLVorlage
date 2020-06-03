@@ -1,0 +1,11 @@
+JSoup-Referat: Aufgabe
+
+Bearbeite die Methode "bearbeiten" so ...
+
+1.) dass im Titel und in der Überschrift dein Name steht.
+2.) Der Absatz(<p>) mit der id "links" links und der Absatz(<p>) mit der id "rechts" rechts angezeigt wird.
+    - Füge dazu ein "style" Attribut mit "float:left" bzw. "-right" hinzu.
+
+Bearbeite nun die Methode "schreibeDatei" so ...
+
+3.) dass der Namen der zu speicherneden HTML-Datei "fertig.html" lautet.
