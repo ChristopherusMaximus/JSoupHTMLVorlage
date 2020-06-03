@@ -42,7 +42,7 @@ public class Main {
         //1.2) Überschrift anpassen
         Element ueberschrift = doc.getElementById("ueberschrift");
 
-        //2) float:left float:right
+        //2) float:left float:right width:40%
 
     }
 

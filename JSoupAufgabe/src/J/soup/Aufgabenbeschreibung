@@ -5,6 +5,7 @@ Bearbeite die Methode "bearbeiten" so ...
 1.) dass im Titel und in der Überschrift dein Name steht.
 2.) Der Absatz(<p>) mit der id "links" links und der Absatz(<p>) mit der id "rechts" rechts angezeigt wird.
     - Füge dazu ein "style" Attribut mit "float:left" bzw. "-right" hinzu.
+    - & passe die breite auf jeweils 40% an.
 
 Bearbeite nun die Methode "schreibeDatei" so ...
 
